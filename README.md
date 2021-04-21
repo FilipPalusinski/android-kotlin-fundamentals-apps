@@ -9,3 +9,5 @@ Finished codelabs:
 * Lesson 5: Architecture components
 * Lesson 6: Room database and coroutines
 * Lesson 7: RecyclerView
+* Lesson 8: Connecting to the internet
+* Lesson 9: Repository
